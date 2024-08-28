@@ -26,3 +26,5 @@ tags:
 - 7 Jh. erste Goldmünze, setzte sich schnell im Rest Europas durch
 - 10 Jh. erstes Papiergeld
 - 17 Jh. erste Bank in Stockholm
+
+[[Zeitstrahl Geschichte des Geldes.canvas|Zeitstrahl Geschichte des Geldes]]

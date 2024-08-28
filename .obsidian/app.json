@@ -8,5 +8,6 @@
     "downscalePercent": 100
   },
   "promptDelete": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "newFileLocation": "current"
 }

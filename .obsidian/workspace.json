@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1f4564e076d6d1b8",
+        "id": "5cb4a3e822b59c82",
         "type": "tabs",
         "children": [
           {
-            "id": "d74d8eb57f6bb9f2",
+            "id": "9980358298d66c56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
+                "viewState": {
+                  "x": 1215,
+                  "y": -312.5,
+                  "zoom": -1.4034338373520125
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas"
+              }
             }
           }
         ],
@@ -139,16 +150,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4399ff80fd85f9d3",
+  "active": "9980358298d66c56",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
+    "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
+    "Nachhaltigkeit/Kapitalistisches Wirtschaftssystem.md",
+    "test notiz.md",
     "Biologie/Begriffe Genetik.md",
     "Biologie/Die Rückkreuzung.md",
     "Biologie/Dihybrider Erbgang.md",
     "Biologie/Genetik.md",
-    "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
-    "Nachhaltigkeit/Kapitalistisches Wirtschaftssystem.md",
-    "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
     "Wirtschaft/Kapitalismus.md",
     "Geschichte/historisch-dialektische Materialismus.md",
     "Geschichte/Karl Marx.md",
@@ -173,7 +184,6 @@
     "Deutung der Mendelschen Regeln.md",
     "2024-08-25.md",
     "2024-08-23.md",
-    "Welcome.md",
     "Biologie/Untitled",
     "Deutsch",
     "Biologie",
