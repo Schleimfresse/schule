@@ -42,7 +42,6 @@ Deutscher Philosoph und Ökonom
 - Marx' Arbeiten wurden sowohl von Befürwortern als auch von Kritikern umfassend diskutiert und haben zu zahlreichen politischen und wirtschaftlichen Theorien geführt.
 
 ---
-
 ## Verwandt
 
 [[Kapitalismus]]
