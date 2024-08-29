@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c614d45320a486",
+        "id": "599b4f0cefad475a",
         "type": "tabs",
         "children": [
           {
-            "id": "4a731606dca6ee21",
+            "id": "a761f2f643d0e9d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Sklavenhaltergesellschaft.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geschichte/Sklavenhaltergesellschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geschichte/Sklavenhaltergesellschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geschichte/Sklavenhaltergesellschaft.md"
+              }
             }
           }
         ],
@@ -139,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a731606dca6ee21",
+  "active": "a761f2f643d0e9d0",
   "lastOpenFiles": [
+    "Geschichte/Karl Marx.md",
+    "Wirtschaft/Kapitalismus.md",
     "Englisch/City driving ban speech.md",
     "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
     "Englisch",
@@ -151,9 +161,7 @@
     "Biologie/Die Rückkreuzung.md",
     "Biologie/Dihybrider Erbgang.md",
     "Biologie/Genetik.md",
-    "Wirtschaft/Kapitalismus.md",
     "Geschichte/historisch-dialektische Materialismus.md",
-    "Geschichte/Karl Marx.md",
     "Geschichte/Sklavenhaltergesellschaft.md",
     "Nachhaltigkeit/Entstehung von Geld.md",
     "Geschichte/Soziale Frage.md",
