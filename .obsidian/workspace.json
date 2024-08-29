@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ca5200e2eb17cd4e",
+        "id": "f0c614d45320a486",
         "type": "tabs",
         "children": [
           {
-            "id": "86bacf9b5677a843",
+            "id": "4a731606dca6ee21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Englisch/City driving ban speech.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +109,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Englisch/City driving ban speech.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,22 +139,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86bacf9b5677a843",
+  "active": "4a731606dca6ee21",
   "lastOpenFiles": [
     "Englisch/City driving ban speech.md",
-    "Geschichte/Sklavenhaltergesellschaft.md",
-    "Englisch",
-    "Wirtschaft/Kapitalismus.md",
-    "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
-    "Biologie/Die Rückkreuzung.md",
-    "Biologie/Begriffe Genetik.md",
-    "Geschichte/Karl Marx.md",
     "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
+    "Englisch",
+    "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
     "Nachhaltigkeit/Kapitalistisches Wirtschaftssystem.md",
     "test notiz.md",
+    "Biologie/Begriffe Genetik.md",
+    "Biologie/Die Rückkreuzung.md",
     "Biologie/Dihybrider Erbgang.md",
     "Biologie/Genetik.md",
+    "Wirtschaft/Kapitalismus.md",
     "Geschichte/historisch-dialektische Materialismus.md",
+    "Geschichte/Karl Marx.md",
+    "Geschichte/Sklavenhaltergesellschaft.md",
     "Nachhaltigkeit/Entstehung von Geld.md",
     "Geschichte/Soziale Frage.md",
     "Karl_Marx.md",
@@ -173,7 +165,6 @@
     "Biologie/Mendel'sche Regeln.md",
     "Deutsch/Corpus Delicti.md",
     "Ethik",
-    "Englisch",
     "Nachhaltigkeit",
     "Geografie",
     "2024-08-26.md",
@@ -182,10 +173,10 @@
     "test.md",
     "Deutung der Mendelschen Regeln.md",
     "2024-08-25.md",
-    "2024-08-23.md",
     "Biologie/Untitled",
     "Deutsch",
     "Biologie",
-    "Chemie"
+    "Chemie",
+    "Geschichte"
   ]
 }
