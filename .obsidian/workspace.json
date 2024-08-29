@@ -26,9 +26,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "697cfc799e48ef53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Karl Marx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Karl Marx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Geschichte/Karl Marx.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "257d74f3d60dd87b",
+  "active": "697cfc799e48ef53",
   "lastOpenFiles": [
+    "Geschichte/Karl Marx.md",
     "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
     "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
     "Nachhaltigkeit/Kapitalistisches Wirtschaftssystem.md",
@@ -168,7 +173,6 @@
     "Biologie/Genetik.md",
     "Wirtschaft/Kapitalismus.md",
     "Geschichte/historisch-dialektische Materialismus.md",
-    "Geschichte/Karl Marx.md",
     "Geschichte/Sklavenhaltergesellschaft.md",
     "Nachhaltigkeit/Entstehung von Geld.md",
     "Geschichte/Soziale Frage.md",
