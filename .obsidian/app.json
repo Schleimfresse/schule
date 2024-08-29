@@ -9,5 +9,6 @@
   },
   "promptDelete": true,
   "trashOption": "local",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "spellcheck": false
 }

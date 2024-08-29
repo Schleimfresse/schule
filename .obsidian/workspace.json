@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c01ada04cf0f09e1",
+        "id": "ca5200e2eb17cd4e",
         "type": "tabs",
         "children": [
           {
-            "id": "51d80d93998e8bd2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "257d74f3d60dd87b",
+            "id": "86bacf9b5677a843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Karl Marx.md",
+                "file": "Englisch/City driving ban speech.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "697cfc799e48ef53",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Karl Marx.md",
+                "file": "Englisch/City driving ban speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Karl Marx.md",
+                "file": "Englisch/City driving ban speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Karl Marx.md"
+                "file": "Englisch/City driving ban speech.md"
               }
             }
           }
@@ -151,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,20 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "257d74f3d60dd87b",
+  "active": "86bacf9b5677a843",
   "lastOpenFiles": [
+    "Englisch/City driving ban speech.md",
+    "Geschichte/Sklavenhaltergesellschaft.md",
+    "Englisch",
+    "Wirtschaft/Kapitalismus.md",
+    "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
+    "Biologie/Die Rückkreuzung.md",
+    "Biologie/Begriffe Genetik.md",
     "Geschichte/Karl Marx.md",
     "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
-    "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
     "Nachhaltigkeit/Kapitalistisches Wirtschaftssystem.md",
     "test notiz.md",
-    "Biologie/Begriffe Genetik.md",
-    "Biologie/Die Rückkreuzung.md",
     "Biologie/Dihybrider Erbgang.md",
     "Biologie/Genetik.md",
-    "Wirtschaft/Kapitalismus.md",
     "Geschichte/historisch-dialektische Materialismus.md",
-    "Geschichte/Sklavenhaltergesellschaft.md",
     "Nachhaltigkeit/Entstehung von Geld.md",
     "Geschichte/Soziale Frage.md",
     "Karl_Marx.md",
@@ -200,7 +186,6 @@
     "Biologie/Untitled",
     "Deutsch",
     "Biologie",
-    "Chemie",
-    "Geschichte"
+    "Chemie"
   ]
 }
