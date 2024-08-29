@@ -1,5 +1,4 @@
 ---
-lastSync: Tue Aug 27 2024 22:17:50 GMT+0200 (Mitteleuropäische Sommerzeit)
 tags:
   - Geschichte
   - Sozialefrage
