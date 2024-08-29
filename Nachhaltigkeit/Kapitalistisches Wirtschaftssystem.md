@@ -10,5 +10,6 @@ Entwicklung und Funktionsweise
 Das kapitalistische Wirtschaftssystem ist ein Wirtschaftssystem, in dem Produktionsmittel größtenteils in privatem Eigentum sind und die Produktion und Verteilung von Waren durch den Markt bestimmt wird.
 
 ## Unterthemen
+
 - [[Entstehung von Geld]]
 - [[Geschichte des Geldes (Kapitalismus)]]

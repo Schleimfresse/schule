@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Biologie",
+      "query": "tag:",
       "color": {
         "a": 1,
         "rgb": 2928437
       }
     },
     {
-      "query": "Geschichte",
+      "query": "tag:#Geschichte ",
       "color": {
         "a": 1,
         "rgb": 16445952
@@ -25,7 +25,14 @@
       "query": "Nachhaltigkeit",
       "color": {
         "a": 1,
-        "rgb": 13471498
+        "rgb": 7691264
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
