@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
+                "file": "Nachhaltigkeit/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nachhaltigkeit/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nachhaltigkeit/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Nachhaltigkeit/Untitled.md"
+              }
             }
           }
         ],
@@ -158,11 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51d80d93998e8bd2",
+  "active": "257d74f3d60dd87b",
   "lastOpenFiles": [
+    "Englisch/City driving ban speech.md",
+    "Nachhaltigkeit/Untitled.md",
     "Biologie/Begriffe Genetik.md",
     "Biologie/Die Rückkreuzung.md",
-    "Englisch/City driving ban speech.md",
     "Geschichte/Karl Marx.md",
     "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
     "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
@@ -192,7 +198,6 @@
     "test.md",
     "Deutung der Mendelschen Regeln.md",
     "2024-08-25.md",
-    "2024-08-23.md",
     "Biologie/Untitled",
     "Deutsch",
     "Biologie",
