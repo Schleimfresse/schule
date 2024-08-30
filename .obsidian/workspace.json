@@ -35,8 +35,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Englisch/City driving ban speech.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "257d74f3d60dd87b",
+  "active": "51d80d93998e8bd2",
   "lastOpenFiles": [
-    "Geschichte/Karl Marx.md",
     "Englisch/City driving ban speech.md",
+    "Geschichte/Karl Marx.md",
     "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
     "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
     "Nachhaltigkeit/Kapitalistisches Wirtschaftssystem.md",
