@@ -5,4 +5,5 @@
 - Fazit
 - Untersuchung: 
 	- Anbaubedingungen
-	- Nachhaltigk
+	- Nachhaltigkeit
+	- politische Hindernisse / Rahmenbedingungen
