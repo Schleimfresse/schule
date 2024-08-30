@@ -10,3 +10,4 @@
 
 ## Einleitung
 
+Der Linke-Hof ist ein Gärtnerhof in Baalsdorf. 
