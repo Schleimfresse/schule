@@ -20,4 +20,5 @@ _Thank you._
 ## Sources
 - https://prilo.com/weekend-traffic-bans-in-europe-whats-their-purpose/
 - https://www.transportenvironment.org/articles/paris-trial-first-city-centre-car-ban
+- https://www.thisgreenlifestyle.com/all-articles/why-some-cities-are-banning-cars
 - 
