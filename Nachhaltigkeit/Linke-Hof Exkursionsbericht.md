@@ -1,5 +1,5 @@
 
-# Schlüsselpunkte
+## Schlüsselpunkte
 - Einleitung
 - Hauptteil
 - Fazit
@@ -7,3 +7,6 @@
 	- Anbaubedingungen
 	- Nachhaltigkeit
 	- politische Hindernisse / Rahmenbedingungen
+
+## Einleitung
+
