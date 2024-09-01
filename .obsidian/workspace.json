@@ -172,6 +172,12 @@
   },
   "active": "51d80d93998e8bd2",
   "lastOpenFiles": [
+    "Wirtschaft/snapd/snapd-2.63.tar.xz.part",
+    "Wirtschaft/snapd/src",
+    "Wirtschaft/snapd/snapd.install",
+    "Wirtschaft/snapd/PKGBUILD",
+    "Wirtschaft/snapd/0001-cmd-snap-seccomp-define-GNU_SOURCE-for-fallocate.patch",
+    "Wirtschaft/snapd",
     "Geschichte/Sklavenhaltergesellschaft.md",
     "Geschichte/Karl Marx.md",
     "Englisch/City driving ban speech.md",
@@ -205,15 +211,10 @@
     "Ethik",
     "Englisch",
     "Nachhaltigkeit",
-    "Geografie",
     "2024-08-26.md",
     "Biologie/Erbgang.md",
     "Biologie/Genotyp.md",
     "test.md",
-    "Deutung der Mendelschen Regeln.md",
-    "Biologie/Untitled",
-    "Deutsch",
-    "Biologie",
-    "Chemie"
+    "Deutung der Mendelschen Regeln.md"
   ]
 }
