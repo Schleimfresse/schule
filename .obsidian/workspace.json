@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
+                "file": "Englisch/speech notes.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "558a5171d5a2bf97",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
+                "file": "Englisch/speech notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
+                "file": "Englisch/speech notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/City driving ban speech.md"
+                "file": "Englisch/speech notes.md"
               }
             }
           }
@@ -149,9 +157,10 @@
   },
   "active": "0781eb35ea071182",
   "lastOpenFiles": [
+    "speech notes.pdf",
+    "Englisch/City driving ban speech.md",
     "Englisch/speech notes.md",
     "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
-    "Englisch/City driving ban speech.md",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.45.jpeg",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44.jpeg",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(3).jpeg",
@@ -189,7 +198,6 @@
     "Biologie/Erbgang.md",
     "Biologie/Genotyp.md",
     "test.md",
-    "Deutung der Mendelschen Regeln.md",
     "Biologie/Untitled",
     "Deutsch",
     "Biologie",
