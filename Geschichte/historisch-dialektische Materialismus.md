@@ -19,3 +19,4 @@ eine Theorie von [[Karl Marx]]
 	- Produktionsverhältnisse: Eigentumsverhältnisse (gesellschaftliche oder private Produktionsmittel)
 	- Produktionsweise: Ökonomische Basis
 4. Revolutionärer Sprung (Widerspruch zwischen Produktionskräften und Produktionsverhältnissen)
+5. Grundidee 
