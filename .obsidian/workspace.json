@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c01ada04cf0f09e1",
+        "id": "2f5e1149b7530f80",
         "type": "tabs",
         "children": [
           {
-            "id": "c48fd9c9780bde18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Argumente Rollenspiel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c39acc0ce7d18fa6",
+            "id": "46a94f82293b6012",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,31 +20,18 @@
             }
           },
           {
-            "id": "b0164c9209e1ed16",
+            "id": "0781eb35ea071182",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nachhaltigkeit/Entstehung von Geld.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d5280733364604d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Nachhaltigkeit/Kapitalistisches Wirtschaftssystem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Englisch/City driving ban speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Englisch/City driving ban speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,17 +127,17 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "94c2c2a9b94ccf1e",
+            "id": "6072363dd5fb076e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Englisch/City driving ban speech.md"
               }
             }
           }
@@ -171,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,56 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d5280733364604d",
+  "active": "46a94f82293b6012",
   "lastOpenFiles": [
-    "Nachhaltigkeit/Entstehung von Geld.md",
-    "conflict-files-obsidian-git.md",
     "speech notes.pdf",
-    "Wirtschaft/Kapitalismus.md",
-    "Geschichte/Sklavenhaltergesellschaft.md",
-    "Geschichte/Karl Marx.md",
-    "Englisch/City driving ban speech.md",
-    "Englisch/speech notes.md",
-    "Deutsch/Argumente Rollenspiel.md",
+    "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
+    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.45.jpeg",
+    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44.jpeg",
+    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(3).jpeg",
+    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(2).jpeg",
+    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(1).jpeg",
+    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.43.jpeg",
+    "Nachhaltigkeit/Images",
     "Geschichte/Untitled.canvas",
     "Geschichte/Kommunismus.md",
+    "Englisch/speech notes.md",
+    "Deutsch/Argumente Rollenspiel.md",
+    "Deutsch",
+    "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
+    "Nachhaltigkeit/Kapitalistisches Wirtschaftssystem.md",
+    "Nachhaltigkeit/Entstehung von Geld.md",
+    "Untitled.canvas",
+    "Englisch/City driving ban speech.md",
+    "Geschichte/Sklavenhaltergesellschaft.md",
+    "Geschichte/Karl Marx.md",
+    "Wirtschaft/Kapitalismus.md",
+    "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
+    "Englisch",
+    "test notiz.md",
+    "Biologie/Begriffe Genetik.md",
+    "Biologie/Die Rückkreuzung.md",
+    "Biologie/Dihybrider Erbgang.md",
+    "Biologie/Genetik.md",
     "Geschichte/historisch-dialektische Materialismus.md",
     "Geschichte/Soziale Frage.md",
+    "Karl_Marx.md",
+    "Wirtschaft",
+    "Biologie/Untitled.canvas",
     "Geschichte/Industrialisierung.md",
-    "Geschichte/speech notes.md",
-    "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
-    "Wirtschaft/snapd/snapd-2.63-1-x86_64.pkg.tar.zst",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-confine/snap-confine.apparmor",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snapd-env-generator/snapd-env-generator.8",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-discard-ns/snap-discard-ns.8",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-confine/snap-confine.8",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-mgmt/snap-mgmt",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snapd-generator/snapd-generator",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snapd-generator/main.o",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snapd-env-generator/snapd-env-generator",
-    "Wirtschaft/snapd/src/snapd-2.63/HACKING.md",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-bootstrap/degraded-recover-mode.svg",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-bootstrap/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/docs/MOVED.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/golang.org/x/sys/unix/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/gopkg.in/tylerb/graceful.v1/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/golang.org/x/term/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/golang.org/x/term/CONTRIBUTING.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/snapcore/go-gettext/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/seccomp/libseccomp-golang/SECURITY.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/seccomp/libseccomp-golang/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/seccomp/libseccomp-golang/CONTRIBUTING.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/mvo5/goconfigparser/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-icon-theme/meta/gui/icons/hicolor/scalable/apps/snap.test-snapd-icon-theme.foo.svg",
-    "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-tools/meta/gui/icon.png",
-    "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-remodel-pc-min-size-22/meta/gui/icon.png",
-    "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-remodel-pc-22/meta/gui/icon.png",
-    "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-remodel-pc-20/meta/gui/icon.png",
-    "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-remodel-pc-18/meta/gui/icon.png",
-    "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/basic-desktop/meta/gui/icon.png",
-    "Wirtschaft/snapd/src/snapd-2.63/data/desktop/snapcraft-logo-bird.svg",
-    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.45.jpeg",
-    "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
-    "Biologie/Untitled.canvas"
+    "Entstehung_von_Geld.md",
+    "Biologie/Mendel'sche Regeln.md",
+    "Deutsch/Corpus Delicti.md",
+    "Ethik",
+    "Nachhaltigkeit",
+    "Geografie",
+    "2024-08-26.md",
+    "Biologie/Erbgang.md",
+    "Biologie/Untitled",
+    "Biologie",
+    "Chemie"
   ]
 }
