@@ -1,27 +1,31 @@
 {
 	"nodes":[
-		{"id":"238b8c9ffd587a93","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Phase 1:"},
-		{"id":"217d632ae443e15b","x":-142,"y":80,"width":285,"height":90,"type":"text","text":"Recht/Politik/Religion/Kunst/Bewußtsein ...)\nIDEOLOGISCHER ÜBERBAU"},
-		{"id":"0137fcc085ff3955","x":-125,"y":310,"width":250,"height":110,"type":"text","text":"Ökonomische Basis"},
-		{"id":"bb0390e26d083b13","x":-125,"y":390,"width":250,"height":60,"type":"text","text":"Produktionsverhältnisse"},
+		{"id":"238b8c9ffd587a93","type":"text","text":"Phase 1:","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"217d632ae443e15b","type":"text","text":"Recht/Politik/Religion/Kunst/Bewußtsein ...)\nIDEOLOGISCHER ÜBERBAU","x":-142,"y":80,"width":285,"height":90},
+		{"id":"0137fcc085ff3955","type":"text","text":"Ökonomische Basis","x":-125,"y":310,"width":250,"height":110},
+		{"id":"bb0390e26d083b13","type":"text","text":"Produktionsverhältnisse","x":-125,"y":390,"width":250,"height":60},
 		{"id":"8e3de267f864ce16","type":"text","text":"Phase 2:","x":237,"y":-30,"width":250,"height":60},
 		{"id":"a4fea321bc7edce4","type":"text","text":"IDEOLOGISCHER ÜBERBAU","x":220,"y":80,"width":285,"height":90},
 		{"id":"fa8ecc1446f78d56","type":"text","text":"Ökonomische Basis","x":237,"y":310,"width":250,"height":110},
 		{"id":"12352ef52675fc37","type":"text","text":"Produktionsverhältnisse","x":237,"y":390,"width":250,"height":60},
 		{"id":"65981bac255c4363","type":"text","text":"Prroduktionskräfte","x":237,"y":510,"width":250,"height":60},
-		{"id":"e35eab5fe860b8b3","x":-125,"y":510,"width":250,"height":60,"type":"text","text":"Prroduktionskräfte"},
+		{"id":"e35eab5fe860b8b3","type":"text","text":"Prroduktionskräfte","x":-125,"y":510,"width":250,"height":60},
 		{"id":"9f146a66bbe0b0b5","type":"text","text":"Phase 3:","x":617,"y":-30,"width":250,"height":60},
 		{"id":"95ed91fce068e32b","type":"text","text":"IDEOLOGISCHER ÜBERBAU","x":600,"y":80,"width":285,"height":90},
 		{"id":"43f974b2a3bad462","type":"text","text":"Ökonomische Basis","x":617,"y":310,"width":250,"height":110},
 		{"id":"e96e673dd7c39dbf","type":"text","text":"Produktionsverhältnisse","x":617,"y":390,"width":250,"height":60},
-		{"id":"dce518603a6b135e","type":"text","text":"Prroduktionskräfte","x":617,"y":510,"width":250,"height":60}
+		{"id":"dce518603a6b135e","type":"text","text":"Prroduktionskräfte","x":617,"y":510,"width":250,"height":60},
+		{"id":"b20845746c9f1f1d","x":0,"y":677,"width":379,"height":60,"type":"text","text":"Weiterentwicklung der Produktionskräfte Widersprüche"},
+		{"id":"f13de13df8ebf14e","x":486,"y":660,"width":261,"height":94,"type":"text","text":"Revolution\nBeseitigung der alten Widersprüche"}
 	],
 	"edges":[
 		{"id":"efacfe998810ba91","fromNode":"0137fcc085ff3955","fromSide":"top","toNode":"217d632ae443e15b","toSide":"bottom"},
 		{"id":"2dd4fb6107864c44","fromNode":"e35eab5fe860b8b3","fromSide":"top","toNode":"bb0390e26d083b13","toSide":"bottom"},
-		{"id":"9adf3d62d1068d9a","fromNode":"fa8ecc1446f78d56","fromSide":"top","toNode":"a4fea321bc7edce4","toSide":"bottom"},
+		{"id":"9adf3d62d1068d9a","fromNode":"fa8ecc1446f78d56","fromSide":"top","toNode":"a4fea321bc7edce4","toSide":"bottom","fromEnd":"arrow"},
 		{"id":"ba9cb415a0848c6c","fromNode":"65981bac255c4363","fromSide":"top","toNode":"12352ef52675fc37","toSide":"bottom","fromEnd":"arrow"},
 		{"id":"2e8c4080889c20dd","fromNode":"43f974b2a3bad462","fromSide":"top","toNode":"95ed91fce068e32b","toSide":"bottom"},
-		{"id":"5e2a4a2f1f44e9f8","fromNode":"dce518603a6b135e","fromSide":"top","toNode":"e96e673dd7c39dbf","toSide":"bottom"}
+		{"id":"5e2a4a2f1f44e9f8","fromNode":"dce518603a6b135e","fromSide":"top","toNode":"e96e673dd7c39dbf","toSide":"bottom"},
+		{"id":"686faa650b1b44bb","fromNode":"f13de13df8ebf14e","fromSide":"top","toNode":"dce518603a6b135e","toSide":"bottom"},
+		{"id":"18b3dac879a88a62","fromNode":"b20845746c9f1f1d","fromSide":"right","toNode":"f13de13df8ebf14e","toSide":"left"}
 	]
 }

@@ -11,3 +11,8 @@ tags:
 - 1895 Bund der Industriellen der chemischen & Elektroindustrie
 	- national/liberal
 - 1904 Verein deutscher Arbeitgeberverbände
+- Proletariat muss sich verkaufen
+	- Eigentumslos
+	- Maschinen
+	- absolute Verelendung
+	- "ehernes Lohngesetz"
