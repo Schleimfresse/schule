@@ -2,6 +2,7 @@
 tags:
   - Englisch
 ---
+<<<<<<< HEAD
 - **Introduction to the Current Reality**:
     - Describe the busy, polluted city to set the scene.
     - Highlight that this is not a distant, dystopian future, but our current reality.
@@ -30,5 +31,8 @@ tags:
     - Reinforce that the goal is not just to limit cars, but to reimagine and improve urban living.
     - Call for collective action to build cities with clean air, safe streets, and a harmonious relationship with nature.
     - Inspire the audience to reflect on their role in this transformation and to join the movement towards car-free cities.
+=======
+
+>>>>>>> origin/main
 
 [[City driving ban speech]]

@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d5280733364604d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nachhaltigkeit/Entstehung von Geld.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nachhaltigkeit/Entstehung von Geld.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nachhaltigkeit/Entstehung von Geld.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -171,8 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0164c9209e1ed16",
+  "active": "2d5280733364604d",
   "lastOpenFiles": [
+    "Nachhaltigkeit/Entstehung von Geld.md",
+    "conflict-files-obsidian-git.md",
+    "speech notes.pdf",
     "Wirtschaft/Kapitalismus.md",
     "Geschichte/Sklavenhaltergesellschaft.md",
     "Geschichte/Karl Marx.md",
@@ -195,7 +210,6 @@
     "Wirtschaft/snapd/src/snapd-2.63/cmd/snapd-generator/snapd-generator",
     "Wirtschaft/snapd/src/snapd-2.63/cmd/snapd-generator/main.o",
     "Wirtschaft/snapd/src/snapd-2.63/cmd/snapd-env-generator/snapd-env-generator",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snapd-env-generator/main.o",
     "Wirtschaft/snapd/src/snapd-2.63/HACKING.md",
     "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-bootstrap/degraded-recover-mode.svg",
     "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-bootstrap/README.md",
@@ -209,8 +223,6 @@
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/seccomp/libseccomp-golang/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/seccomp/libseccomp-golang/CONTRIBUTING.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/mvo5/goconfigparser/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/juju/ratelimit/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/jessevdk/go-flags/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-icon-theme/meta/gui/icons/hicolor/scalable/apps/snap.test-snapd-icon-theme.foo.svg",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-tools/meta/gui/icon.png",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-remodel-pc-min-size-22/meta/gui/icon.png",
