@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
+                "file": "Deutsch/Argumente Rollenspiel.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
+                "file": "Deutsch/Argumente Rollenspiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
+                "file": "Deutsch/Argumente Rollenspiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/City driving ban speech.md"
+                "file": "Deutsch/Argumente Rollenspiel.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "46a94f82293b6012",
   "lastOpenFiles": [
+    "Englisch/City driving ban speech.md",
     "speech notes.pdf",
     "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.45.jpeg",
@@ -179,7 +180,6 @@
     "Nachhaltigkeit/Kapitalistisches Wirtschaftssystem.md",
     "Nachhaltigkeit/Entstehung von Geld.md",
     "Untitled.canvas",
-    "Englisch/City driving ban speech.md",
     "Geschichte/Sklavenhaltergesellschaft.md",
     "Geschichte/Karl Marx.md",
     "Wirtschaft/Kapitalismus.md",
@@ -205,7 +205,6 @@
     "2024-08-26.md",
     "Biologie/Erbgang.md",
     "Biologie/Untitled",
-    "Biologie",
-    "Chemie"
+    "Biologie"
   ]
 }
