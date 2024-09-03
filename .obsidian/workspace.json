@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/historisch-dialektische Materialismus.md",
+                "file": "Geschichte/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/historisch-dialektische Materialismus.md",
+                "file": "Geschichte/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/historisch-dialektische Materialismus.md"
+                "file": "Geschichte/Untitled.canvas"
               }
             }
           }
@@ -174,11 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55e2eec78db03e97",
+  "active": "f8c91d7c65ccf5d3",
   "lastOpenFiles": [
-    "Geschichte/Untitled.canvas",
     "Geschichte/Soziale Frage.md",
     "Geschichte/historisch-dialektische Materialismus.md",
+    "Geschichte/Untitled.canvas",
     "Wirtschaft/Kapitalismus.md",
     "Geschichte/Industrialisierung.md",
     "Englisch/speech notes.md",

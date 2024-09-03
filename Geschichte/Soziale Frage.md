@@ -16,3 +16,4 @@ tags:
 	- Maschinen
 	- absolute Verelendung
 	- "ehernes Lohngesetz"
+- 
