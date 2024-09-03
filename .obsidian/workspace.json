@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "adc1dc7e1f07c86f",
+            "id": "b0164c9209e1ed16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/speech notes.md",
+                "file": "Nachhaltigkeit/Entstehung von Geld.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
+                "file": "Nachhaltigkeit/Entstehung von Geld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
+                "file": "Nachhaltigkeit/Entstehung von Geld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/City driving ban speech.md"
+                "file": "Nachhaltigkeit/Entstehung von Geld.md"
               }
             }
           }
@@ -171,16 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c39acc0ce7d18fa6",
+  "active": "b0164c9209e1ed16",
   "lastOpenFiles": [
-    "Englisch/speech notes.md",
+    "Wirtschaft/Kapitalismus.md",
+    "Geschichte/Sklavenhaltergesellschaft.md",
+    "Geschichte/Karl Marx.md",
     "Englisch/City driving ban speech.md",
+    "Englisch/speech notes.md",
     "Deutsch/Argumente Rollenspiel.md",
     "Geschichte/Untitled.canvas",
     "Geschichte/Kommunismus.md",
     "Geschichte/historisch-dialektische Materialismus.md",
     "Geschichte/Soziale Frage.md",
-    "Wirtschaft/Kapitalismus.md",
     "Geschichte/Industrialisierung.md",
     "Geschichte/speech notes.md",
     "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
@@ -209,8 +211,6 @@
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/mvo5/goconfigparser/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/juju/ratelimit/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/jessevdk/go-flags/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/gorilla/mux/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/godbus/dbus/CONTRIBUTING.md",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-icon-theme/meta/gui/icons/hicolor/scalable/apps/snap.test-snapd-icon-theme.foo.svg",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-tools/meta/gui/icon.png",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-remodel-pc-min-size-22/meta/gui/icon.png",

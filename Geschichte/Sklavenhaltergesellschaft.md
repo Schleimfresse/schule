@@ -5,10 +5,9 @@ tags:
   - Sozialefrage
   - KarlMarx
 ---
-# Sklavenhaltergesellschaft
-
 Die Sklavenhaltergesellschaft war ein Gesellschaftssystem, in dem Sklaverei die wirtschaftliche Grundlage bildete. Sklaven wurden als Eigentum betrachtet und ihre Arbeit war entscheidend für die wirtschaftliche Produktion.
 
+---
 ## Merkmale
 
 - **Wirtschaft:** Sklavenarbeit wurde für Landwirtschaft, Bauwesen und Haushalt genutzt. Sklaven waren Eigentum ihrer Besitzer und hatten keine Rechte.
