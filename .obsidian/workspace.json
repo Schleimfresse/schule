@@ -11,8 +11,12 @@
             "id": "6f822c34601b1c51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md"
+              }
             }
           }
         ],
@@ -141,10 +149,10 @@
   },
   "active": "6f822c34601b1c51",
   "lastOpenFiles": [
+    "Deutsch/Argumente Rollenspiel.md",
     "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
     "Geschichte/Kommunismus.md",
     "Nachhaltigkeit/Kapitalistisches Wirtschaftssystem.md",
-    "Deutsch/Argumente Rollenspiel.md",
     "Englisch/City driving ban speech.md",
     "speech notes.pdf",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.45.jpeg",
