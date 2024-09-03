@@ -1,9 +1,9 @@
 ### Argument 1: Eingriff in die Privatsphäre der Bürger
 
-- **Behauptung:** Die verpflichtende Überwachung sportlicher Aktivitäten stellt einen gravierenden Eingriff in die Privatsphäre der Bürger dar.
-- **Begründung:** Sportliche Aktivitäten gehören zu den intimsten Bereichen des täglichen Lebens. Eine ständige Überwachung durch den Staat würde den Menschen das Gefühl der Freiheit und Autonomie nehmen.
-- **Beweis/Beispiel/Beleg:** Studien zeigen, dass Überwachungstechnologien bei Bürgern zu Stress und einem Gefühl der Fremdbestimmung führen können. In China hat die Überwachung von Bürgern durch Social-Credit-Systeme ähnliche Bedenken hervorgerufen.
-- **Bezug zur Behauptung:** Der Staat sollte nicht in das Privatleben der Menschen eindringen und deren tägliche Aktivitäten überwachen, da dies grundlegende Freiheitsrechte verletzt.
+**Behauptung:** Die verpflichtende Überwachung sportlicher Aktivitäten stellt einen gravierenden Eingriff in die Privatsphäre der Bürger dar.  
+**Begründung:** Sportliche Aktivitäten gehören zu den intimsten Bereichen des täglichen Lebens. Eine ständige Überwachung durch den Staat würde den Menschen das Gefühl der Freiheit und Autonomie nehmen.  
+**Beweis/Beispiel/Beleg:** Studien zeigen, dass Überwachungstechnologien bei Bürgern zu Stress und einem Gefühl der Fremdbestimmung führen können. In China hat die Überwachung von Bürgern durch Social-Credit-Systeme ähnliche Bedenken hervorgerufen.  
+**Bezug zur Behauptung:** Der Staat darf sich nicht in das Privatleben des Einzelnen einmischen und seine alltäglichen Aktivitäten überwachen, da das ist ein Verstoß gegen die grundlegenden Freiheitsrechte ist.
 
 ### Argument 2: Gefahr des Missbrauchs und der Manipulation
 
@@ -14,7 +14,7 @@
 
 ### Argument 3: Keine Verbesserung der Gesundheitsvorsorge
 
-- **Behauptung:** Die verpflichtende Überwachung sportlicher Aktivitäten führt nicht zwangsläufig zu einer besseren Gesundheitsvorsorge.
+- **Behauptung:** Verpflichtende Überwachung sportlicher Aktivitäten führt nicht zwingend  zu einer besseren Gesundheitsvorsorge.
 - **Begründung:** Menschen, die Sport treiben wollen, tun dies aus eigenem Antrieb. Eine erzwungene Überwachung führt eher zu Ablehnung und Stress, was die Gesundheit negativ beeinflussen kann.
 - **Beweis/Beispiel/Beleg:** Eine Studie der WHO zeigte, dass extrinsische Motivation durch Zwang weniger effektiv ist als intrinsische Motivation, wenn es darum geht, gesunde Verhaltensweisen zu etablieren.
 - **Bezug zur Behauptung:** Eine Verbesserung der öffentlichen Gesundheit kann nur durch freiwillige und motivierte Teilnahme erreicht werden, nicht durch Zwangsmaßnahmen.

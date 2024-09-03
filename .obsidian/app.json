@@ -10,5 +10,5 @@
   "promptDelete": true,
   "trashOption": "local",
   "newFileLocation": "current",
-  "spellcheck": false
+  "spellcheck": true
 }
