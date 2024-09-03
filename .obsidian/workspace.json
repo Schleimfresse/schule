@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4399ff80fd85f9d3",
+  "active": "94c2c2a9b94ccf1e",
   "lastOpenFiles": [
     "Nachhaltigkeit/Entstehung von Geld.md",
     "conflict-files-obsidian-git.md",
