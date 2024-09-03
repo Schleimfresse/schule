@@ -40,10 +40,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Soziale Frage.md",
+                "file": "Geschichte/Kommunismus.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "88ce569b63d37915",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -175,9 +183,10 @@
   },
   "active": "f8c91d7c65ccf5d3",
   "lastOpenFiles": [
-    "Geschichte/Soziale Frage.md",
+    "Geschichte/Kommunismus.md",
     "Geschichte/historisch-dialektische Materialismus.md",
     "Geschichte/Untitled.canvas",
+    "Geschichte/Soziale Frage.md",
     "Wirtschaft/Kapitalismus.md",
     "Geschichte/Industrialisierung.md",
     "Englisch/speech notes.md",
@@ -211,7 +220,6 @@
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/jessevdk/go-flags/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/gorilla/mux/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/godbus/dbus/CONTRIBUTING.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/canonical/tcglog-parser/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-icon-theme/meta/gui/icons/hicolor/scalable/apps/snap.test-snapd-icon-theme.foo.svg",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-tools/meta/gui/icon.png",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-remodel-pc-min-size-22/meta/gui/icon.png",

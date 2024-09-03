@@ -1,0 +1,4 @@
+- "Jeder nach seinen Fähigkeiten nach seinen Bedürfnissen" - Maxime des Kommunismus
+- Kein Kapital / Geld
+- Kein Privateigentum
+- 
