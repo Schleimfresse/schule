@@ -30,8 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "adc1dc7e1f07c86f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Argumente Rollenspiel.md",
+                "file": "Englisch/City driving ban speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Argumente Rollenspiel.md",
+                "file": "Englisch/City driving ban speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Argumente Rollenspiel.md"
+                "file": "Englisch/City driving ban speech.md"
               }
             }
           }
@@ -158,11 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c48fd9c9780bde18",
+  "active": "c39acc0ce7d18fa6",
   "lastOpenFiles": [
     "Englisch/City driving ban speech.md",
-    "Englisch/speech notes.md",
     "Deutsch/Argumente Rollenspiel.md",
+    "Englisch/speech notes.md",
     "Geschichte/Untitled.canvas",
     "Geschichte/Kommunismus.md",
     "Geschichte/historisch-dialektische Materialismus.md",
