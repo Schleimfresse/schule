@@ -14,10 +14,10 @@
 
 ### Argument 3: Keine Verbesserung der Gesundheitsvorsorge
 
-- **Behauptung:** Verpflichtende Überwachung sportlicher Aktivitäten führt nicht zwingend  zu einer besseren Gesundheitsvorsorge.
-- **Begründung:** Menschen, die Sport treiben wollen, tun dies aus eigenem Antrieb. Eine erzwungene Überwachung führt eher zu Ablehnung und Stress, was die Gesundheit negativ beeinflussen kann.
-- **Beweis/Beispiel/Beleg:** Eine Studie der WHO zeigte, dass extrinsische Motivation durch Zwang weniger effektiv ist als intrinsische Motivation, wenn es darum geht, gesunde Verhaltensweisen zu etablieren.
-- **Bezug zur Behauptung:** Eine Verbesserung der öffentlichen Gesundheit kann nur durch freiwillige und motivierte Teilnahme erreicht werden, nicht durch Zwangsmaßnahmen.
+- **Behauptung:** Verpflichtende Überwachung sportlicher Aktivitäten führt nicht zwingend zu einer besseren Gesundheitsvorsorge.
+- **Begründung:** Menschen, die Sport treiben wollen, können dies aus eigenem Antrieb tun. Eine erzwungene Überwachung führt eher zu Ablehnung und Stress, was die Gesundheit zwangsläufig negativ beeinflussen kann.
+- **Beweis/Beispiel/Beleg:** Eine Studie der WHO zeigt, dass extrinsische Motivation durch Zwang weniger effektiv ist als intrinsische Motivation, wenn es darum geht, gesunde Verhaltensweisen zu etablieren.
+- **Bezug zur Behauptung:** Eine Verbesserung der öffentlichen Gesundheit kann nicht durch unfreiwillige und unmotivierte Teilnahme erreicht werden, sondern durch Eigenwillen bzw. eigenem Antrieb.
 
 ### Argument 4: Gefahr der Diskriminierung und Ungleichheit
 
