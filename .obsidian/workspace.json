@@ -35,8 +35,12 @@
             "id": "adc1dc7e1f07c86f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/speech notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -169,9 +173,9 @@
   },
   "active": "c39acc0ce7d18fa6",
   "lastOpenFiles": [
-    "Englisch/City driving ban speech.md",
-    "Deutsch/Argumente Rollenspiel.md",
     "Englisch/speech notes.md",
+    "Deutsch/Argumente Rollenspiel.md",
+    "Englisch/City driving ban speech.md",
     "Geschichte/Untitled.canvas",
     "Geschichte/Kommunismus.md",
     "Geschichte/historisch-dialektische Materialismus.md",
