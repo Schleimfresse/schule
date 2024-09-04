@@ -11,11 +11,14 @@
             "id": "c48fd9c9780bde18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Deutsch/Argumente Rollenspiel.md",
-                "mode": "source",
-                "source": false
+                "file": "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
+                "viewState": {
+                  "x": -69.91584428548809,
+                  "y": 97.15517220497134,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -93,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "right": {
     "id": "d3c57c08e9075acc",
@@ -109,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Argumente Rollenspiel.md",
+                "file": "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Argumente Rollenspiel.md",
+                "file": "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Argumente Rollenspiel.md"
+                "file": "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas"
               }
             }
           }
@@ -170,8 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94c2c2a9b94ccf1e",
+  "active": "c48fd9c9780bde18",
   "lastOpenFiles": [
+    "Deutsch/Argumente Rollenspiel.md",
+    "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
     "Nachhaltigkeit/Entstehung von Geld.md",
     "conflict-files-obsidian-git.md",
     "speech notes.pdf",
@@ -180,7 +185,6 @@
     "Geschichte/Karl Marx.md",
     "Englisch/City driving ban speech.md",
     "Englisch/speech notes.md",
-    "Deutsch/Argumente Rollenspiel.md",
     "Geschichte/Untitled.canvas",
     "Geschichte/Kommunismus.md",
     "Geschichte/historisch-dialektische Materialismus.md",
@@ -209,7 +213,6 @@
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/seccomp/libseccomp-golang/SECURITY.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/seccomp/libseccomp-golang/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/seccomp/libseccomp-golang/CONTRIBUTING.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/mvo5/goconfigparser/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-icon-theme/meta/gui/icons/hicolor/scalable/apps/snap.test-snapd-icon-theme.foo.svg",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-tools/meta/gui/icon.png",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-remodel-pc-min-size-22/meta/gui/icon.png",

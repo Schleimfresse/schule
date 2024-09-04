@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f31be7382775cbd6","x":-240,"y":-240,"width":250,"height":60,"type":"text","text":"Staat"},
+		{"id":"9fd2001939abf564","x":-240,"y":200,"width":250,"height":60,"type":"text","text":"Banken"},
+		{"id":"b490695d7c67ee73","x":-560,"y":-30,"width":250,"height":60,"type":"text","text":"Private Haushalte"},
+		{"id":"7e88f6876332b96e","x":80,"y":-30,"width":250,"height":60,"type":"text","text":"Unternehmen"},
+		{"id":"facdef9c5cee784f","x":420,"y":-210,"width":250,"height":60,"type":"text","text":"Ausland / Globalisierung"}
+	],
+	"edges":[
+		{"id":"d5fd19323d2bf392","fromNode":"7e88f6876332b96e","fromSide":"left","toNode":"b490695d7c67ee73","toSide":"right","color":"1","label":"Löhne"},
+		{"id":"ff3c4ddda68ccde6","fromNode":"b490695d7c67ee73","fromSide":"top","toNode":"f31be7382775cbd6","toSide":"bottom","color":"1","label":"Steuern"},
+		{"id":"b46b94fdbf6a6e82","fromNode":"f31be7382775cbd6","fromSide":"left","toNode":"b490695d7c67ee73","toSide":"top","color":"6","label":"Sozialleistungen"},
+		{"id":"41a33e1c55e98e72","fromNode":"f31be7382775cbd6","fromSide":"right","toNode":"7e88f6876332b96e","toSide":"top","color":"1","label":"Subventionen"},
+		{"id":"9d7fcfc3f4dcedae","fromNode":"b490695d7c67ee73","fromSide":"bottom","toNode":"7e88f6876332b96e","toSide":"left","color":"6","label":"Arbeit, Konsum Güter"},
+		{"id":"a989fda4bc99dae8","fromNode":"7e88f6876332b96e","fromSide":"top","toNode":"f31be7382775cbd6","toSide":"bottom","color":"6","label":"Steuern, Lobbyismus"}
+	]
+}
