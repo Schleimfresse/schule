@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Argumente Rollenspiel.md",
-                "mode": "preview",
+                "file": "Deutsch/Rollenspiel.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Argumente Rollenspiel.md",
+                "file": "Deutsch/Rollenspiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Argumente Rollenspiel.md",
+                "file": "Deutsch/Rollenspiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Argumente Rollenspiel.md"
+                "file": "Deutsch/Rollenspiel.md"
               }
             }
           }
@@ -152,7 +152,7 @@
     "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
     "Nachhaltigkeit/Entstehung von Geld.md",
     "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
-    "Deutsch/Argumente Rollenspiel.md",
+    "Deutsch/Rollenspiel.md",
     "Englisch/City driving ban speech.md",
     "conflict-files-obsidian-git.md",
     "speech notes.pdf",
