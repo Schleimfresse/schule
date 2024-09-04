@@ -11,36 +11,9 @@
             "id": "c48fd9c9780bde18",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
-                "viewState": {
-                  "x": -69.91584428548809,
-                  "y": 97.15517220497134,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "c39acc0ce7d18fa6",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/City driving ban speech.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0164c9209e1ed16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nachhaltigkeit/Entstehung von Geld.md",
+                "file": "Deutsch/Argumente Rollenspiel.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
+                "file": "Deutsch/Argumente Rollenspiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
+                "file": "Deutsch/Argumente Rollenspiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas"
+                "file": "Deutsch/Argumente Rollenspiel.md"
               }
             }
           }
@@ -175,15 +148,17 @@
   },
   "active": "c48fd9c9780bde18",
   "lastOpenFiles": [
-    "Deutsch/Argumente Rollenspiel.md",
     "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
+    "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
     "Nachhaltigkeit/Entstehung von Geld.md",
+    "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
+    "Deutsch/Argumente Rollenspiel.md",
+    "Englisch/City driving ban speech.md",
     "conflict-files-obsidian-git.md",
     "speech notes.pdf",
     "Wirtschaft/Kapitalismus.md",
     "Geschichte/Sklavenhaltergesellschaft.md",
     "Geschichte/Karl Marx.md",
-    "Englisch/City driving ban speech.md",
     "Englisch/speech notes.md",
     "Geschichte/Untitled.canvas",
     "Geschichte/Kommunismus.md",
@@ -191,7 +166,6 @@
     "Geschichte/Soziale Frage.md",
     "Geschichte/Industrialisierung.md",
     "Geschichte/speech notes.md",
-    "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
     "Wirtschaft/snapd/snapd-2.63-1-x86_64.pkg.tar.zst",
     "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-confine/snap-confine.apparmor",
     "Wirtschaft/snapd/src/snapd-2.63/cmd/snapd-env-generator/snapd-env-generator.8",
@@ -212,7 +186,6 @@
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/snapcore/go-gettext/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/seccomp/libseccomp-golang/SECURITY.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/seccomp/libseccomp-golang/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/seccomp/libseccomp-golang/CONTRIBUTING.md",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-icon-theme/meta/gui/icons/hicolor/scalable/apps/snap.test-snapd-icon-theme.foo.svg",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-tools/meta/gui/icon.png",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-remodel-pc-min-size-22/meta/gui/icon.png",
