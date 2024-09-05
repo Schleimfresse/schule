@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef05cd353ed0b4aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/mock exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Rollenspiel.md",
+                "file": "Englisch/mock exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Rollenspiel.md",
+                "file": "Englisch/mock exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Rollenspiel.md"
+                "file": "Englisch/mock exam.md"
               }
             }
           }
@@ -146,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c48fd9c9780bde18",
+  "active": "ef05cd353ed0b4aa",
   "lastOpenFiles": [
+    "Englisch/mock exam.md",
+    "Deutsch/Rollenspiel.md",
     "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
     "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
     "Nachhaltigkeit/Entstehung von Geld.md",
     "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
-    "Deutsch/Rollenspiel.md",
     "Englisch/City driving ban speech.md",
     "conflict-files-obsidian-git.md",
     "speech notes.pdf",
