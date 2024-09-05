@@ -10,4 +10,4 @@ tags:
 - Wichern verhalf zur Gründung eines Bürgerhaus, Johannisstift
 - mit 25 gründete Wichern ein Rettungshaus, das "raue Haus"
 - Setzte auf das Prinzip der Nächstenliebe
-- 
+- Wichern ist 1881 verstorben
