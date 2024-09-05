@@ -2,54 +2,50 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "tag:#Biologie ",
-      "color": {
-        "a": 1,
-        "rgb": 2928437
-      }
-    },
-    {
-      "query": "tag:#Geschichte ",
-      "color": {
-        "a": 1,
-        "rgb": 16445952
-      }
-    },
-    {
-      "query": "tag:#Nachhaltigkeit ",
-      "color": {
-        "a": 1,
-        "rgb": 7691264
-      }
-    },
     {
       "query": "tag:#Englisch  ",
       "color": {
         "a": 1,
-        "rgb": 13704991
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Geschichte  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Biologie  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Nachhaltigkeit  ",
+      "color": {
+        "a": 1,
+        "rgb": 7759620
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 0.982,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.401041666666667,
-  "repelStrength": 11.0416666666667,
-  "linkStrength": 0.5,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.6826011839092858,
-=======
-  "scale": 0.7039212941873391,
->>>>>>> origin/main
+  "scale": 1,
   "close": true
 }
