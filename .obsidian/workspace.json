@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b17771c357f1ddea",
+            "id": "f4981f2c1ff67ea5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geschichte/Lösung der sozialen Frage durch die Kirche.md"
+              }
             }
           }
         ]
@@ -138,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b17771c357f1ddea",
+  "active": "f4981f2c1ff67ea5",
   "lastOpenFiles": [
+    "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
+    "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
     "Deutsch/Rollenspiel.md",
     "Englisch/mock exam.md",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.45.jpeg",
@@ -148,7 +158,6 @@
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(1).jpeg",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44.jpeg",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.43.jpeg",
-    "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
     "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
     "Nachhaltigkeit/Entstehung von Geld.md",
     "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
