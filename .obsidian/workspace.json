@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ba97faf2cb2e8e75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Deutsch/Rollenspiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Deutsch/Rollenspiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Deutsch/Rollenspiel.md"
               }
             }
           }
@@ -171,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba97faf2cb2e8e75",
+  "active": "447520551bb73920",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Chemie/Korrossion.md",
     "Chemie",
     "Deutsch/Rollenspiel.md",
     "Deutsch/Argumente Rollenspiel.md",
-    "conflict-files-obsidian-git.md",
     "Ethik/Gerechtigkeitsformen.md",
     "Ethik/Gerechtigkeitsformeln.md",
     "Geschichte/Lösung der sozialen Frage durch die Kirche.md",

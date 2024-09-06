@@ -2,13 +2,10 @@
 tags:
   - Deutsch
 ---
-<<<<<<< HEAD:Deutsch/Rollenspiel.md
 ## Einleitung
 
 
 ## Argumente
-=======
->>>>>>> 10ebcfa4ec1b84d995caf3ee103fa35960cfdb47:Deutsch/Argumente Rollenspiel.md
 ### Argument 1: Eingriff in die Privatsphäre der Bürger
 
 **Behauptung:** Die verpflichtende Überwachung sportlicher Aktivitäten stellt einen gravierenden Eingriff in die Privatsphäre der Bürger dar.  
