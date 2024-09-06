@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5935f89d16056d9d",
+        "id": "744dea8b5181899b",
         "type": "tabs",
         "children": [
           {
-            "id": "f4981f2c1ff67ea5",
+            "id": "103415a97969cde8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ethik/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ethik/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ethik/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ethik/Untitled.md"
+              }
             }
           }
         ]
@@ -138,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4981f2c1ff67ea5",
+  "active": "103415a97969cde8",
   "lastOpenFiles": [
+    "Ethik/Gerechtigkeitsformeln.md",
+    "Ethik/Untitled.md",
     "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
     "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
     "Deutsch/Rollenspiel.md",
@@ -183,8 +193,6 @@
     "Wirtschaft/snapd/src/snapd-2.63/vendor/gopkg.in/tylerb/graceful.v1/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/golang.org/x/term/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/golang.org/x/term/CONTRIBUTING.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/snapcore/go-gettext/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/github.com/seccomp/libseccomp-golang/SECURITY.md",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-icon-theme/meta/gui/icons/hicolor/scalable/apps/snap.test-snapd-icon-theme.foo.svg",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-tools/meta/gui/icon.png",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-remodel-pc-min-size-22/meta/gui/icon.png",
