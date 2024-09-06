@@ -23,8 +23,12 @@
             "id": "447520551bb73920",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -153,8 +161,8 @@
   },
   "active": "447520551bb73920",
   "lastOpenFiles": [
-    "Deutsch/Rollenspiel.md",
     "conflict-files-obsidian-git.md",
+    "Deutsch/Rollenspiel.md",
     "Chemie/Korrossion.md",
     "Chemie",
     "Deutsch/Argumente Rollenspiel.md",
