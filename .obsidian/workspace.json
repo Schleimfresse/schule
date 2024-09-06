@@ -23,12 +23,8 @@
             "id": "447520551bb73920",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Rollenspiel.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Rollenspiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Rollenspiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Deutsch/Rollenspiel.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,10 +153,10 @@
   },
   "active": "447520551bb73920",
   "lastOpenFiles": [
+    "Deutsch/Rollenspiel.md",
     "conflict-files-obsidian-git.md",
     "Chemie/Korrossion.md",
     "Chemie",
-    "Deutsch/Rollenspiel.md",
     "Deutsch/Argumente Rollenspiel.md",
     "Ethik/Gerechtigkeitsformen.md",
     "Ethik/Gerechtigkeitsformeln.md",
