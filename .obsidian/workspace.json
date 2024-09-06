@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "3adca2baa90fda44",
+    "id": "9e10b713cc9da12a",
     "type": "split",
     "children": [
       {
-        "id": "6756439f9c7d54ec",
+        "id": "17498c56208bb7a8",
         "type": "tabs",
         "children": [
           {
-            "id": "3f52fef5b6f45075",
+            "id": "633159d248621c19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethik/Gerechtigkeitsformen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "447520551bb73920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "178b26dd2d02c0c8",
+    "id": "05cfc61ea7ab02f5",
     "type": "split",
     "children": [
       {
-        "id": "8708fa8e1db883dd",
+        "id": "944ce4410d4ba574",
         "type": "tabs",
         "children": [
           {
-            "id": "4399ff80fd85f9d3",
+            "id": "e3b05cbfbb17ca7c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "1ea1bd281e282116",
+            "id": "08611d42be6afeb2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "d9dabd457fa920d7",
+            "id": "d0f1e5b8e9aecfc8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 300
   },
   "right": {
-    "id": "d3c57c08e9075acc",
+    "id": "d802eed35e637823",
     "type": "split",
     "children": [
       {
-        "id": "78136348e42962f1",
+        "id": "aa4ac71fd23be390",
         "type": "tabs",
         "children": [
           {
-            "id": "379944fd5c1965e6",
+            "id": "d55b96f2b0eb4a47",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,30 +92,29 @@
             }
           },
           {
-            "id": "00d69bfc7ce7fac0",
+            "id": "70f2fcff4b3d2b2d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ad110f0ebf22850d",
+            "id": "2081dd2768f1930f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "94c2c2a9b94ccf1e",
+            "id": "569ffe63e4095c68",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -159,57 +140,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "447520551bb73920",
+  "active": "e3b05cbfbb17ca7c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Deutsch/Rollenspiel.md",
-    "Chemie/Korrossion.md",
-    "Chemie",
-    "Deutsch/Argumente Rollenspiel.md",
-    "Ethik/Gerechtigkeitsformen.md",
-    "Ethik/Gerechtigkeitsformeln.md",
-    "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
-    "Englisch/mock exam.md",
-    "Geschichte/Untitled.canvas",
-    "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
-    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.45.jpeg",
-    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(3).jpeg",
-    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(2).jpeg",
-    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(1).jpeg",
-    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44.jpeg",
-    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.43.jpeg",
-    "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
-    "Nachhaltigkeit/Entstehung von Geld.md",
-    "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
-    "Englisch/City driving ban speech.md",
-    "speech notes.pdf",
-    "Wirtschaft/Kapitalismus.md",
-    "Geschichte/Sklavenhaltergesellschaft.md",
-    "Geschichte/Karl Marx.md",
-    "Englisch/speech notes.md",
-    "Geschichte/Kommunismus.md",
-    "Geschichte/historisch-dialektische Materialismus.md",
-    "Geschichte/Soziale Frage.md",
-    "Geschichte/Industrialisierung.md",
-    "Geschichte/speech notes.md",
-    "Wirtschaft/snapd/snapd-2.63-1-x86_64.pkg.tar.zst",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-confine/snap-confine.apparmor",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snapd-env-generator/snapd-env-generator.8",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-discard-ns/snap-discard-ns.8",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-confine/snap-confine.8",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-mgmt/snap-mgmt",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snapd-generator/snapd-generator",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snapd-generator/main.o",
-    "Wirtschaft/snapd/src/snapd-2.63/HACKING.md",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-bootstrap/degraded-recover-mode.svg",
-    "Wirtschaft/snapd/src/snapd-2.63/cmd/snap-bootstrap/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/docs/MOVED.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/golang.org/x/sys/unix/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/gopkg.in/tylerb/graceful.v1/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-icon-theme/meta/gui/icons/hicolor/scalable/apps/snap.test-snapd-icon-theme.foo.svg",
-    "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-tools/meta/gui/icon.png",
-    "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-remodel-pc-min-size-22/meta/gui/icon.png",
-    "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
-    "Biologie/Untitled.canvas"
+    "conflict-files-obsidian-git.md"
   ]
 }
