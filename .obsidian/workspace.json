@@ -14,8 +14,29 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b5807e5f8d7bcb00",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5bf4c0b38731a83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ],
@@ -139,11 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e2931d942b354e1",
+  "active": "d5bf4c0b38731a83",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Deutsch/Rollenspiel.md",
     "Deutsch/Argumente Rollenspiel.md",
-    "conflict-files-obsidian-git.md",
     "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
     "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
     "Ethik/Gerechtigkeitsformen.md",
