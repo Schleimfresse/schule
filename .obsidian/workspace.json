@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "744dea8b5181899b",
+        "id": "6756439f9c7d54ec",
         "type": "tabs",
         "children": [
           {
-            "id": "103415a97969cde8",
+            "id": "3f52fef5b6f45075",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethik/Untitled.md",
+                "file": "Ethik/Gerechtigkeitsformen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "040b7a67e0a1310c",
+            "id": "447520551bb73920",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
+                "file": "Deutsch/Rollenspiel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba97faf2cb2e8e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethik/Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethik/Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethik/Untitled.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -158,14 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "103415a97969cde8",
+  "active": "ba97faf2cb2e8e75",
   "lastOpenFiles": [
-    "Ethik/Gerechtigkeitsformeln.md",
-    "Ethik/Untitled.md",
-    "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
-    "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
     "Deutsch/Rollenspiel.md",
+    "Deutsch/Argumente Rollenspiel.md",
+    "conflict-files-obsidian-git.md",
+    "Ethik/Gerechtigkeitsformen.md",
+    "Ethik/Gerechtigkeitsformeln.md",
+    "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
     "Englisch/mock exam.md",
+    "Geschichte/Untitled.canvas",
+    "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.45.jpeg",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(3).jpeg",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(2).jpeg",
@@ -176,13 +192,11 @@
     "Nachhaltigkeit/Entstehung von Geld.md",
     "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
     "Englisch/City driving ban speech.md",
-    "conflict-files-obsidian-git.md",
     "speech notes.pdf",
     "Wirtschaft/Kapitalismus.md",
     "Geschichte/Sklavenhaltergesellschaft.md",
     "Geschichte/Karl Marx.md",
     "Englisch/speech notes.md",
-    "Geschichte/Untitled.canvas",
     "Geschichte/Kommunismus.md",
     "Geschichte/historisch-dialektische Materialismus.md",
     "Geschichte/Soziale Frage.md",
@@ -203,8 +217,6 @@
     "Wirtschaft/snapd/src/snapd-2.63/docs/MOVED.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/golang.org/x/sys/unix/README.md",
     "Wirtschaft/snapd/src/snapd-2.63/vendor/gopkg.in/tylerb/graceful.v1/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/golang.org/x/term/README.md",
-    "Wirtschaft/snapd/src/snapd-2.63/vendor/golang.org/x/term/CONTRIBUTING.md",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-icon-theme/meta/gui/icons/hicolor/scalable/apps/snap.test-snapd-icon-theme.foo.svg",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-tools/meta/gui/icon.png",
     "Wirtschaft/snapd/src/snapd-2.63/tests/lib/snaps/test-snapd-remodel-pc-min-size-22/meta/gui/icon.png",
