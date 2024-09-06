@@ -5,11 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-<<<<<<< HEAD
   "collapse-color-groups": true,
-  "colorGroups": [],
-=======
-  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Englisch  ",
@@ -29,11 +25,17 @@
       "query": "tag:#Biologie  ",
       "color": {
         "a": 1,
-        "rgb": 6938706
+        "rgb": 3581983
+      }
+    },
+    {
+      "query": "tag:#Nachhaltigkeit  ",
+      "color": {
+        "a": 1,
+        "rgb": 8091673
       }
     }
   ],
->>>>>>> ae5b376703bf8c4d7b6cdb56a265d35d2b7a7306
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -44,11 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 1.154952965253567,
-  "close": true
-=======
   "scale": 1,
-  "close": false
->>>>>>> ae5b376703bf8c4d7b6cdb56a265d35d2b7a7306
+  "close": true
 }
