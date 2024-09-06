@@ -4,7 +4,6 @@ tags:
   - Nachhaltigkeit
   - Kapitalismus
 ---
-
 Quelle: Uwe Burka, Eine zukunftsfähige Geld- und Wirtschaftsordnung (www.aktivzukunftsichern.com <- tot)
 
 - 10 % des Geldes durch Nationalbanken

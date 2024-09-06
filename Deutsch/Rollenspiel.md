@@ -2,6 +2,10 @@
 tags:
   - Deutsch
 ---
+## Einleitung
+
+
+## Argumente
 ### Argument 1: Eingriff in die Privatsphäre der Bürger
 
 **Behauptung:** Die verpflichtende Überwachung sportlicher Aktivitäten stellt einen gravierenden Eingriff in die Privatsphäre der Bürger dar.  
