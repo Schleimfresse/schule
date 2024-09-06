@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "040b7a67e0a1310c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethik/Untitled.md",
+                "file": "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethik/Untitled.md",
+                "file": "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethik/Untitled.md"
+                "file": "Geschichte/Lösung der sozialen Frage durch die Kirche.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "103415a97969cde8",
+  "active": "040b7a67e0a1310c",
   "lastOpenFiles": [
-    "Ethik/Gerechtigkeitsformeln.md",
     "Ethik/Untitled.md",
+    "Ethik/Gerechtigkeitsformeln.md",
     "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
     "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
     "Deutsch/Rollenspiel.md",
