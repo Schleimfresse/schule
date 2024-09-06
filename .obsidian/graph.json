@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Englisch  ",
@@ -25,7 +25,14 @@
       "query": "tag:#Biologie  ",
       "color": {
         "a": 1,
-        "rgb": 6938706
+        "rgb": 3581983
+      }
+    },
+    {
+      "query": "tag:#Nachhaltigkeit  ",
+      "color": {
+        "a": 1,
+        "rgb": 8091673
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": false
+  "scale": 0.4444444444444444,
+  "close": true
 }
