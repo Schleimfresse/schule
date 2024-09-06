@@ -4,7 +4,7 @@ tags:
 ---
 ## Einleitung
 
-
+Gesundheit und körperliche Fitness sind in unserer heutigen Gesellschaft von steigender Bedeutung. Angesichts der steigenden Kosten im Gesundheitswesen und der wachsenden Besorgnis über die Folgen eines inaktiven Lebensstils wird die Frage diskutiert, ob Fitnesstracker verpflichtend eingesetzt werden sollten, um das Bewegungsverhalten der Menschen zu überwachen und zu sanktionieren. Aber ist das tatsächlich der richtige Weg? Was ist mit den individuellen Bedürfnissen und Freiheiten der Bürger?
 ## Argumente
 ### Argument 1: Eingriff in die Privatsphäre der Bürger
 
