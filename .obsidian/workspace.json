@@ -11,8 +11,12 @@
             "id": "6f822c34601b1c51",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chemie/Korrossion.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemie/Korrossion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemie/Korrossion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemie/Korrossion.md"
+              }
             }
           }
         ],
@@ -136,11 +144,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "marp-slides:Show Slide Preview": false
     }
   },
   "active": "6f822c34601b1c51",
   "lastOpenFiles": [
+    "Chemie/Korrossion.md",
+    "Chemie",
     "Deutsch/Argumente Rollenspiel.md",
     "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
     "Geschichte/Kommunismus.md",
@@ -184,7 +195,6 @@
     "Geografie",
     "2024-08-26.md",
     "Biologie/Erbgang.md",
-    "Biologie/Untitled",
-    "Biologie"
+    "Biologie/Untitled"
   ]
 }
