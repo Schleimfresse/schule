@@ -4,22 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "543e756b67caccb4",
+        "id": "46dd3e9335d6f460",
         "type": "tabs",
         "children": [
           {
-            "id": "7e2931d942b354e1",
+            "id": "e554137a1a262527",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biologie/Begriffe Genetik.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "b5807e5f8d7bcb00",
+            "id": "93a3f963c5fc4c5a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "Biologie/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c603826d09c100c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           }
@@ -90,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biologie/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biologie/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biologie/Untitled.md"
+              }
             }
           }
         ],
@@ -148,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5807e5f8d7bcb00",
+  "active": "4399ff80fd85f9d3",
   "lastOpenFiles": [
+    "Biologie/Begriffe Genetik.md",
+    "Biologie/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Deutsch/Rollenspiel.md",
     "Deutsch/Argumente Rollenspiel.md",
@@ -185,13 +207,11 @@
     "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
     "Englisch",
     "test notiz.md",
-    "Biologie/Begriffe Genetik.md",
     "Biologie/Die Rückkreuzung.md",
     "Biologie/Dihybrider Erbgang.md",
     "Biologie/Genetik.md",
     "Geschichte/historisch-dialektische Materialismus.md",
     "Geschichte/Soziale Frage.md",
-    "Karl_Marx.md",
     "Wirtschaft",
     "Biologie/Untitled.canvas",
     "Nachhaltigkeit",
