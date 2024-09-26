@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "46dd3e9335d6f460",
+        "id": "ccf5fb1c00de17d1",
         "type": "tabs",
         "children": [
           {
-            "id": "e554137a1a262527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologie/Begriffe Genetik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93a3f963c5fc4c5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologie/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c603826d09c100c",
+            "id": "1d9fc84ccedc3ad7",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Geschichte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologie/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologie/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,13 +118,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biologie/Untitled.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,52 +140,54 @@
   },
   "active": "4399ff80fd85f9d3",
   "lastOpenFiles": [
-    "Biologie/Begriffe Genetik.md",
-    "Biologie/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Deutsch/Rollenspiel.md",
-    "Deutsch/Argumente Rollenspiel.md",
+    "Geografie/Konzeptmap.canvas",
+    "Deutsch/Corpus Delicti Erörterung.md",
+    "Deutsch/\"Gibs auf!\" - Eine Parabel.md",
+    "Geschichte/Industrialisierung und soziale Frage/Gesellschaftsphasen.canvas",
+    "Wirtschaft/Untitled.canvas",
+    "Nachhaltigkeit/Lobbyismus.md",
+    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.43.jpeg",
+    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44.jpeg",
     "Nachhaltigkeit/Erweiterter Wirtschaftskreislauf.canvas",
-    "Geschichte/Lösung der sozialen Frage durch die Kirche.md",
-    "Ethik/Gerechtigkeitsformen.md",
-    "Ethik/Gerechtigkeitsformeln.md",
-    "Ethik",
-    "Englisch/mock exam.md",
+    "Geschichte/Außenpolitik/Außenpolitik von Bismark.md",
+    "Geschichte/Außenpolitik/Kaiser Wilhelm II. Außenpolitik.md",
+    "Geschichte/Außenpolitik/Dreikaiserjahr 1888.md",
+    "Geschichte/Industrialisierung und soziale Frage/Soziale Frage.md",
     "Chemie/Korrossion.md",
+    "Biologie/Dihybrider Erbgang.md",
+    "Geschichte/Außenpolitik/Kolonien anderer Länder.md",
+    "Geschichte/Außenpolitik",
+    "Biologie/Vergleich Mitose & Meiose.md",
+    "Biologie/Rekombination.md",
+    "Biologie/Mitose.md",
+    "Biologie/Mendel'sche Regeln.md",
+    "Biologie/Meiose.md",
+    "Biologie/Erbgang Übung.md",
+    "Biologie/Die Rückkreuzung.md",
+    "Biologie/Chromosomen.md",
+    "Geschichte/Außenpolitik/Napoleonische Kriege.md",
+    "Wirtschaft/Kapitalismus.md",
+    "Geschichte/Industrialisierung und soziale Frage/Karl Marx.md",
+    "Geschichte/Industrialisierung und soziale Frage/Sklavenhaltergesellschaft.md",
+    "Ethik/Naturrecht & positives Recht.md",
+    "Geografie/Konzept der Nachhaltigkeit.md",
+    "Ethik/Gerechtigkeitsformen.md",
+    "Geschichte/Industrialisierung und soziale Frage",
+    "Geschichte/Gesellschaftsphasen.canvas",
+    "Ethik",
     "Chemie",
-    "Nachhaltigkeit/Linke-Hof Exkursionsbericht.md",
-    "Geschichte/Kommunismus.md",
-    "Nachhaltigkeit/Kapitalistisches Wirtschaftssystem.md",
-    "Englisch/City driving ban speech.md",
     "speech notes.pdf",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.45.jpeg",
-    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44.jpeg",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(3).jpeg",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(2).jpeg",
     "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.44(1).jpeg",
-    "Nachhaltigkeit/Images/WhatsApp Image 2024-08-30 at 18.58.43.jpeg",
     "Nachhaltigkeit/Images",
-    "Geschichte/Untitled.canvas",
-    "Englisch/speech notes.md",
     "Deutsch",
-    "Nachhaltigkeit/Geschichte des Geldes (Kapitalismus).md",
-    "Nachhaltigkeit/Entstehung von Geld.md",
     "Untitled.canvas",
-    "Geschichte/Sklavenhaltergesellschaft.md",
-    "Geschichte/Karl Marx.md",
-    "Wirtschaft/Kapitalismus.md",
     "Nachhaltigkeit/Zeitstrahl Geschichte des Geldes.canvas",
     "Englisch",
-    "test notiz.md",
-    "Biologie/Die Rückkreuzung.md",
-    "Biologie/Dihybrider Erbgang.md",
-    "Biologie/Genetik.md",
-    "Geschichte/historisch-dialektische Materialismus.md",
-    "Geschichte/Soziale Frage.md",
     "Wirtschaft",
     "Biologie/Untitled.canvas",
-    "Nachhaltigkeit",
-    "Geografie",
-    "Biologie/Untitled"
+    "Nachhaltigkeit"
   ]
 }

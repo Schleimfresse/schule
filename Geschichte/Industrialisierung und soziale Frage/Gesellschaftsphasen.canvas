@@ -15,11 +15,10 @@
 		{"id":"43f974b2a3bad462","type":"text","text":"Ökonomische Basis","x":617,"y":310,"width":250,"height":110},
 		{"id":"e96e673dd7c39dbf","type":"text","text":"Produktionsverhältnisse","x":617,"y":390,"width":250,"height":60},
 		{"id":"dce518603a6b135e","type":"text","text":"Prroduktionskräfte","x":617,"y":510,"width":250,"height":60},
-		{"id":"b20845746c9f1f1d","x":0,"y":677,"width":379,"height":60,"type":"text","text":"Weiterentwicklung der Produktionskräfte Widersprüche"},
-		{"id":"f13de13df8ebf14e","x":486,"y":660,"width":261,"height":94,"type":"text","text":"Revolution\nBeseitigung der alten Widersprüche"}
+		{"id":"b20845746c9f1f1d","type":"text","text":"Weiterentwicklung der Produktionskräfte Widersprüche","x":0,"y":677,"width":379,"height":60},
+		{"id":"f13de13df8ebf14e","type":"text","text":"Revolution\nBeseitigung der alten Widersprüche","x":486,"y":660,"width":261,"height":94}
 	],
 	"edges":[
-		{"id":"efacfe998810ba91","fromNode":"0137fcc085ff3955","fromSide":"top","toNode":"217d632ae443e15b","toSide":"bottom"},
 		{"id":"2dd4fb6107864c44","fromNode":"e35eab5fe860b8b3","fromSide":"top","toNode":"bb0390e26d083b13","toSide":"bottom"},
 		{"id":"9adf3d62d1068d9a","fromNode":"fa8ecc1446f78d56","fromSide":"top","toNode":"a4fea321bc7edce4","toSide":"bottom","fromEnd":"arrow"},
 		{"id":"ba9cb415a0848c6c","fromNode":"65981bac255c4363","fromSide":"top","toNode":"12352ef52675fc37","toSide":"bottom","fromEnd":"arrow"},
@@ -27,6 +26,7 @@
 		{"id":"5e2a4a2f1f44e9f8","fromNode":"dce518603a6b135e","fromSide":"top","toNode":"e96e673dd7c39dbf","toSide":"bottom"},
 		{"id":"686faa650b1b44bb","fromNode":"f13de13df8ebf14e","fromSide":"top","toNode":"dce518603a6b135e","toSide":"bottom"},
 		{"id":"18b3dac879a88a62","fromNode":"b20845746c9f1f1d","fromSide":"right","toNode":"f13de13df8ebf14e","toSide":"left"},
-		{"id":"eeabedb50ae0443e","fromNode":"e35eab5fe860b8b3","fromSide":"top","toNode":"217d632ae443e15b","toSide":"bottom"}
+		{"id":"eeabedb50ae0443e","fromNode":"e35eab5fe860b8b3","fromSide":"top","toNode":"217d632ae443e15b","toSide":"bottom"},
+		{"id":"efacfe998810ba91","fromNode":"0137fcc085ff3955","fromSide":"top","toNode":"217d632ae443e15b","toSide":"bottom"}
 	]
 }

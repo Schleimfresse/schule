@@ -13,7 +13,6 @@ Deutscher Philosoph und Ökonom
 
 - **Weltgeschichtliche Entwicklung:** Marx betrachtete die gegenwärtigen gesellschaftlichen und wirtschaftlichen Zustände immer im Kontext einer weltgeschichtlichen Entwicklung. Er sah die gegenwärtigen Probleme als Teil eines größeren historischen Prozesses, der durch Klassenkämpfe und ökonomische Veränderungen geprägt ist.
 - **Engster Mitarbeiter:** Sein enger Mitarbeiter und Freund, Friedrich Engels, spielte eine zentrale Rolle bei der Entwicklung und Verbreitung der marxistischen Theorie. Gemeinsam verfassten sie wichtige Werke wie das „Kommunistische Manifest“.
-
 ## Biografie
 
 - **Geboren:** 5. Mai 1818 in Trier, Preußen.
@@ -26,7 +25,6 @@ Deutscher Philosoph und Ökonom
 	- **Das Kapital:** 1867 veröffentlichte Marx das erste Buch seines Hauptwerks „Das Kapital“, in dem er eine kritische Analyse des Kapitalismus und seiner wirtschaftlichen Grundlagen bietet.
 - **Spätere Jahre:** Marx lebte die letzten Jahre seines Lebens in London, wo er weiterhin an seinen theoretischen Arbeiten arbeitete und politische Aktivitäten verfolgte.
 - **Gestorben:** 14. März 1883 in London, Vereinigtes Königreich.
-
 ## Hauptwerke
 
 - **Kommunistisches Manifest (1848):**
@@ -34,7 +32,6 @@ Deutscher Philosoph und Ökonom
 
 - **Das Kapital (1867):**
   - Marx' bedeutendstes Werk, das die ökonomischen Grundlagen des Kapitalismus analysiert, insbesondere die Mechanismen der Wertschöpfung und -verteilung.
-
 ## Einfluss und Erbe
 
 - Marx' Theorien haben die politische und soziale Theorie des 19. und 20. Jahrhunderts maßgeblich beeinflusst. Die Konzepte des Klassenkampfes, der historischen Materialismus und der Kapitalismuskritik sind zentrale Elemente der marxistischen Philosophie und der sozialistischen Bewegung.
@@ -43,7 +40,7 @@ Deutscher Philosoph und Ökonom
 ---
 ## Verwandt
 
-[[Kapitalismus]]
-[[historisch-dialektische Materialismus]]
-[[Sklavenhaltergesellschaft]]
-[[Soziale Frage]]
+- [[Kapitalismus]]
+- [[historisch-dialektische Materialismus]]
+- [[Sklavenhaltergesellschaft]]
+- [[Soziale Frage]]

@@ -1,0 +1,17 @@
+- Äquatorialklima
+- hohe Niederschlagsmengen
+- Regenwald: artenreichste Vegetationsform der Erde
+- gleichbleibende Klimabedingungen -> keine Periodizität der Pflanzen
+- beherrschender Bodentyp: **Feralsole**, angereichert mit Eisen und Aluminiumoxiden (typisch rötlich-gelbe Farbe)
+- Silikatminerale zu Kaolinit durch chemische Verwitterungsprozesse
+	- Haben nur eine geringe Kationsaustauschkapazität
+		- Pflanzennährstoffe sind in tieferen Bodenschichten
+- Wurzelhaare gehen mit Mykorrhiza-Pilzen eine Symbiose ein: Bäume und Pilze tauschen Ressourcen aus
+- deutlicher Stockwerkaufbau
+- Kronendach 30-40 m (Einige Baumriesen bis zu 80 m)
+- Lichtintensität nimmt mit Stockwerken drastisch ab (1 % des Lichtes erreicht den Erdboden)
+- Verdunstungskraft sinkt mit jeder Etage 
+- relative Luftfeuchtigkeit nimmt ab mit jeder Etage
+- nur 30 % des Niederschlags erreicht den Boden (durch Verdunstung)
+	- trotzdem wasserreichsten Ströme der Erde
+	- verzweigte Flussnetze

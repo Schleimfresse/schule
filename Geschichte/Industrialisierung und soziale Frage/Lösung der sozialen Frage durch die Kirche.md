@@ -28,3 +28,17 @@ tags:
 - gründete Gesellenvereine
 	- Keimzelle des bis heute bestehenden Kolpingwerks
 - reagierte mit den Gesellenvereinen auf die "Verwahrlosung" und "Entwurzelung" der Handwerkergesellen
+
+## Bischof Ketteler
+
+- Sprach Missstand an in seinen Reden
+- In Mainz tätig
+- Stellte sich total auf die Seite der Arbeiter
+	- Forderte z.B. kürzere Arbeitszeiten
+- Gründete Arbeitervereine
+
+## Bodelschwingh
+
+- Pastor 
+- Schuf ein Haus für Geistig und Körperbehinderte -> Haus "Bethel"
+- Schuf später auch Häuser für Arbeiter

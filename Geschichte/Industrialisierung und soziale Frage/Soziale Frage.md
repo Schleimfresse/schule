@@ -1,5 +1,4 @@
 ---
-lastSync: Tue Aug 27 2024 22:05:59 GMT+0200 (Mitteleuropäische Sommerzeit)
 tags:
   - Geschichte
   - Sozialefrage
@@ -16,4 +15,3 @@ tags:
 	- Maschinen
 	- absolute Verelendung
 	- "ehernes Lohngesetz"
-- 

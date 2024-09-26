@@ -1,0 +1,86 @@
+---
+tags:
+  - Geschichte
+  - Außenpolitik
+---
+- Januar 1801 "Frieden von Lunéwill"
+	- Kaiser Franz der II. (St) erkannte die Annektion von Belgien an, Bildung von den Niederlande, sowie die Abtretung des linken Rheinufers an
+- der russische Zar war Großmeister im Malteserorden
+	- wollte Malta nicht abgeben
+	- England wollte Malta haben
+	- Russland wandte sich Frankreich zu und weg von England
+		- England war isoliert
+- 1802 "Frieden von Anniens"
+	- England musste Malta und Ägypten abgeben und Frankreichs "natürliche Grenzen" anerkennen
+	- Frankreich verzichtete auf weitere Kolonien
+- 1805 3. Koalitionskrieg
+- England weigerte sich England zu räumen
+	- Frankreich wollte seine Truppen aus Holland und Süditalien nicht abziehen
+- Bruch des Friedensvertrags von Lunéwill
+	- Seeschlacht bei Trafalgar
+		- Französische Truppen erneut geschlagen -> England blieb Seemacht
+- Oktober 1805 Drei Kaiserschlacht bei Austerlitz
+	- Österreich und Russland gegen Frankreich
+	- Preußen neutral
+	- Napoleon siegte in der Schlacht
+	- Österreich musste Gebietsverluste hinnehmen
+		- manche Gebiete an Bayern
+		- um weitere Kriege zu vermeiden: Napoleon heiratete Marie Luise (Tochter des österreichischen Kaisers)
+	- Preußen neutral: entlohnt von Napoleon -> erhielt Annsbach und Kleven als Enklaven
+- 1806 Rheinbund Gründung
+	- Säkularisierung (Enteignung der Kirche)
+	- Mediatisierung (Städte wurden Ländern zugeordnet und waren nicht mehr unabhängig)
+	- Einführung des "Code Civil"
+- Preußen stellt Ultimatum an Frankreich: Billigung eines Norddeutschen-Bund und Rückzug aus den süddeutschen Gebieten
+- 9 Oktober 1806 Frankreich erklärte Preußen den Krieg
+- 14.10.1806 Schlacht bei Jena-Auerstedt
+	- Preußen verlor haushoch den Kampf
+- Frieden von Tilsit
+- Währenddessen wandte sich Russland England zu um Frankreich anzugreifen
+	- Verloren
+- Preußen musste die Hälfte der Gebiete abgeben
+- Herr nur noch 42000 Mann stark
+- 200 Mio. Franc Kriegsentschädigung
+- Preußen durch die Zahlungen keine Großmacht mehr
+- 1806 Kontinentalsperre gegen England
+	- Es durften keine Waren nach oder von England geliefert werden
+	- Schwarzmarkt & Schmuggel entwickelte sich stark
+- Auflösung heiliges römisches Reich deutscher Nation
+	- Kaiser Franz II. legte Kaiserkrone nieder
+- mit Rheinbund Verbündete geschaffen
+	- Bayern, Württemberg, Sachsen werden zu Königreichen
+	- Baden und Hessen-Darmstadt werden zu Großherzogtümern
+- 1810 Annektion von Holland, Emsland, Ostfriesland, Oldenburg sowie Hansestädte
+- Russland setzte Kontinentalsperre nicht konsequent durch -> massiver Schmuggel über Russland möglich
+	- Napoleon hatte nun einen Grund Russland anzugreifen
+- 4. Juni 1812 Russlandfeldzug
+- 420.000 Mann
+- 40.000 Reiter
+- sehr viele Soldaten von Verbündeten welche mehr oder weniger gezwungen wurden mitzukämpfen
+- Wenig Kampfmoral der Frz. Armee
+- 14.9.1812 Napoleon erreichte Moskau
+	- hatte bereits große Verluste
+- Russland wendete die "Taktik der Verbrannten Erde" an
+	- Orte und Felder wurden angezündet um Verflegungsmöglichkeiten für die Frz. Armee zu zerstören
+- Napoleon kehrte mit 100.000 Mann zurück
+- Russische Winter machte Napoleon und den Resten der Armee zu schaffen
+	- meiste Verluste beim überqueren der Beresina
+	- Fluss war zugefroren
+	- die letzten sind in den Fluss eingebrochen und sind ertrunken/erfroren
+	- Napoleon floh nach Paris
+- Preußen, Russland und Österreich verbündeten sich um Napoleon aus Europa zu schaffen
+- Wollte eine neue Armee zusammenstellen gegen Preußen, Russland und Österreich
+	- Lützow und Blüdner waren Generäle
+- 13. Oktober 1813 Völkerschlacht bei Leipzig
+	- Sachsen wechselte während der Völkerschlacht die Seite und kämpfte gegen Frankreich
+	- Napoleon verlor die Völkerschlacht
+	- Napoleon wurde zum Abdanken gezwungen -> **Verband nach Elba im Mittelmeer**
+- Juni 1814 Nachricht das Napoleon in Belgien steht und Europa zurückerobern wollte
+	- Engländer unter Wellington als Gegenwehr
+- Schlacht bei Waterloo
+- 17 Uhr England in Bedrängnis (Ich wollt es wär Nacht oder die Preußen kämen)
+	- Preußen kamen und gewannen die Schlacht gegen Napoleon
+- Napoleon: 72.000 Mann
+- England 67.000 Mann
+- 1821 Napoleon wurde **nach St. Helena verbannt**
+ 

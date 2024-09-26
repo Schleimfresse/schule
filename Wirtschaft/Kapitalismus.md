@@ -16,7 +16,7 @@ Der Kapitalismus ist ein Wirtschaftssystem, das durch privates Eigentum an Produ
 - Karl Marx
 ## Verwandt
 
-[[Sklavenhaltergesellschaft]]
-[[Kapitalistisches Wirtschaftssystem]]
-[[Entstehung von Geld]]
-[[Karl Marx]]
+- [[Sklavenhaltergesellschaft]]
+- [[Kapitalistisches Wirtschaftssystem]]
+- [[Entstehung von Geld]]
+- [[Karl Marx]]

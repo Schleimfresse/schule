@@ -1,0 +1,16 @@
+---
+tags:
+  - Außenpolitik
+  - Geschichte
+---
+- Kaiser Wilhelm I. starb im Alter von 91 Jahren
+- Liberale hofften auf modern Politik
+- Friedrich III. als Nachfolger von Kaiser Wilhelm I.
+- Friedrich III. als liberaler
+- Friedrich III. starb nach 99 Tagen Regierungszeit
+- Kaiser Wilhelm II. mit 29 Jahren neuer Kaiser
+- Wilhelm II. kein Freund von Bismarck
+	- brachte Bismarck zum Rücktritt
+	- 1890: Bismarck gab seinen Rücktritt bekannt
+	- Caprivi als nachfolgender Kanzler
+- 
